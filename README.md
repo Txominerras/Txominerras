@@ -1,6 +1,6 @@
 Hi, I'm Txomin Errasti
 
-I'm passionate about Software Engineering, with a particular interest in VR/AR Development and game development. I also have experience in web development.
+Passionate about Software Engineering, particularly in VR/AR Development, while also delving into the exciting world of cybersecurity.
 
 I'm a dedicated Software Engineering student at the University of the Basque Country.
 
